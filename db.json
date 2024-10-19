@@ -1,0 +1,1312 @@
+{
+  "users": [
+    {
+      "id": "b3bf",
+      "username": "hossainsmshakib",
+      "email": "smsakib2403@gmail.com",
+      "password": "123456"
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "title": "Dhaka Tech Summit 2024",
+      "description": "Annual technology conference showcasing the latest innovations",
+      "date": "2024-10-05",
+      "category": "Technology",
+      "location": {
+        "lat": 23.8103,
+        "lng": 90.4125
+      },
+      "address": "Bangabandhu International Conference Center, Dhaka",
+      "ticketPrice": 2500
+    },
+    {
+      "id": 2,
+      "title": "Autumn Art Exhibition",
+      "description": "Showcasing works of emerging Bangladeshi artists",
+      "date": "2024-10-10",
+      "category": "Art",
+      "location": {
+        "lat": 23.7461,
+        "lng": 90.3742
+      },
+      "address": "Bangladesh Shilpakala Academy, Dhaka",
+      "ticketPrice": 300
+    },
+    {
+      "id": 3,
+      "title": "Dhaka International Food Festival",
+      "description": "Culinary extravaganza featuring global cuisines",
+      "date": "2024-10-15",
+      "category": "Food",
+      "location": {
+        "lat": 23.813,
+        "lng": 90.4148
+      },
+      "address": "Gulshan-2 Circle, Dhaka",
+      "ticketPrice": 1000
+    },
+    {
+      "id": 4,
+      "title": "Bangladesh Film Festival",
+      "description": "Celebrating the best of Bangladeshi cinema",
+      "date": "2024-10-20",
+      "category": "Entertainment",
+      "location": {
+        "lat": 23.7937,
+        "lng": 90.4066
+      },
+      "address": "Bangladesh National Museum, Dhaka",
+      "ticketPrice": 500
+    },
+    {
+      "id": 5,
+      "title": "Dhaka Literature Symposium",
+      "description": "Gathering of authors and literature enthusiasts",
+      "date": "2024-10-25",
+      "category": "Literature",
+      "location": {
+        "lat": 23.7514,
+        "lng": 90.3934
+      },
+      "address": "Bangla Academy, Dhaka",
+      "ticketPrice": 400
+    },
+    {
+      "id": 6,
+      "title": "Dhaka Jazz Festival",
+      "description": "Annual jazz music celebration",
+      "date": "2024-10-30",
+      "category": "Music",
+      "location": {
+        "lat": 23.7525,
+        "lng": 90.384
+      },
+      "address": "Army Stadium, Dhaka",
+      "ticketPrice": 1500
+    },
+    {
+      "id": 7,
+      "title": "Dhaka Marathon 2024",
+      "description": "Annual city-wide running event",
+      "date": "2024-11-02",
+      "category": "Sports",
+      "location": {
+        "lat": 23.7276,
+        "lng": 90.3968
+      },
+      "address": "Hatirjheel, Dhaka",
+      "ticketPrice": 800
+    },
+    {
+      "id": 8,
+      "title": "Bangladesh Startup Summit",
+      "description": "Networking event for entrepreneurs and investors",
+      "date": "2024-11-05",
+      "category": "Business",
+      "location": {
+        "lat": 23.8127,
+        "lng": 90.4136
+      },
+      "address": "Radisson Blu Dhaka Water Garden",
+      "ticketPrice": 3000
+    },
+    {
+      "id": 9,
+      "title": "Dhaka Fashion Week",
+      "description": "Showcasing the latest in Bangladeshi fashion",
+      "date": "2024-11-10",
+      "category": "Fashion",
+      "location": {
+        "lat": 23.8103,
+        "lng": 90.4125
+      },
+      "address": "Pan Pacific Sonargaon Dhaka",
+      "ticketPrice": 2000
+    },
+    {
+      "id": 10,
+      "title": "International Education Fair",
+      "description": "Expo for international universities and education programs",
+      "date": "2024-11-15",
+      "category": "Education",
+      "location": {
+        "lat": 23.8762,
+        "lng": 90.3782
+      },
+      "address": "Bashundhara Convention Center, Dhaka",
+      "ticketPrice": 200
+    },
+    {
+      "id": 11,
+      "title": "Dhaka Science Fair 2024",
+      "description": "Annual exhibition of scientific innovations and experiments",
+      "date": "2024-10-07",
+      "category": "Science",
+      "location": {
+        "lat": 23.7298,
+        "lng": 90.4008
+      },
+      "address": "Dhaka University Campus, Dhaka",
+      "ticketPrice": 250
+    },
+    {
+      "id": 12,
+      "title": "Bangladesh Book Fair",
+      "description": "Largest book fair in the country",
+      "date": "2024-10-12",
+      "category": "Literature",
+      "location": {
+        "lat": 23.7321,
+        "lng": 90.3971
+      },
+      "address": "Suhrawardy Udyan, Dhaka",
+      "ticketPrice": 50
+    },
+    {
+      "id": 13,
+      "title": "Dhaka International Trade Fair",
+      "description": "Annual trade fair showcasing local and international products",
+      "date": "2024-10-17",
+      "category": "Business",
+      "location": {
+        "lat": 23.8138,
+        "lng": 90.4274
+      },
+      "address": "Bangladesh China Friendship Exhibition Center, Dhaka",
+      "ticketPrice": 100
+    },
+    {
+      "id": 14,
+      "title": "Dhaka Rock Festival",
+      "description": "Celebration of rock music featuring local and international bands",
+      "date": "2024-10-22",
+      "category": "Music",
+      "location": {
+        "lat": 23.8136,
+        "lng": 90.4137
+      },
+      "address": "Jamuna Future Park, Dhaka",
+      "ticketPrice": 1200
+    },
+    {
+      "id": 15,
+      "title": "Bangladesh Yoga Festival",
+      "description": "Promoting wellness through yoga and meditation",
+      "date": "2024-10-27",
+      "category": "Health",
+      "location": {
+        "lat": 23.813,
+        "lng": 90.4148
+      },
+      "address": "Gulshan Lake Park, Dhaka",
+      "ticketPrice": 500
+    },
+    {
+      "id": 16,
+      "title": "Dhaka International Theater Festival",
+      "description": "Showcasing theatrical performances from around the world",
+      "date": "2024-11-01",
+      "category": "Entertainment",
+      "location": {
+        "lat": 23.7539,
+        "lng": 90.384
+      },
+      "address": "Bangladesh Shilpakala Academy, Dhaka",
+      "ticketPrice": 800
+    },
+    {
+      "id": 17,
+      "title": "Dhaka Kite Festival",
+      "description": "Colorful kite flying event in the city sky",
+      "date": "2024-11-06",
+      "category": "Culture",
+      "location": {
+        "lat": 23.7461,
+        "lng": 90.3742
+      },
+      "address": "Hatirjheel, Dhaka",
+      "ticketPrice": 100
+    },
+    {
+      "id": 18,
+      "title": "Bangladesh Startup Weekend",
+      "description": "54-hour event to launch startup ideas",
+      "date": "2024-11-11",
+      "category": "Technology",
+      "location": {
+        "lat": 23.7805,
+        "lng": 90.4091
+      },
+      "address": "EMK Center, Dhanmondi, Dhaka",
+      "ticketPrice": 1500
+    },
+    {
+      "id": 19,
+      "title": "Dhaka Coffee Festival",
+      "description": "Celebration of coffee culture and barista skills",
+      "date": "2024-11-16",
+      "category": "Food",
+      "location": {
+        "lat": 23.7938,
+        "lng": 90.4023
+      },
+      "address": "Dhanmondi Lake, Dhaka",
+      "ticketPrice": 300
+    },
+    {
+      "id": 20,
+      "title": "Bangladesh Renewable Energy Expo",
+      "description": "Showcasing the latest in renewable energy technologies",
+      "date": "2024-11-21",
+      "category": "Technology",
+      "location": {
+        "lat": 23.8103,
+        "lng": 90.4125
+      },
+      "address": "Bangabandhu International Conference Center, Dhaka",
+      "ticketPrice": 500
+    },
+    {
+      "id": 21,
+      "title": "Dhaka Street Food Festival",
+      "description": "Celebrating the diverse street food culture of Dhaka",
+      "date": "2024-10-08",
+      "category": "Food",
+      "location": {
+        "lat": 23.7511,
+        "lng": 90.3934
+      },
+      "address": "Ramna Park, Dhaka",
+      "ticketPrice": 200
+    },
+    {
+      "id": 22,
+      "title": "Bangladesh Digital Innovation Fair",
+      "description": "Showcasing digital innovations and startups",
+      "date": "2024-10-13",
+      "category": "Technology",
+      "location": {
+        "lat": 23.8762,
+        "lng": 90.3782
+      },
+      "address": "Bashundhara Convention Center, Dhaka",
+      "ticketPrice": 300
+    },
+    {
+      "id": 23,
+      "title": "Dhaka International Photography Exhibition",
+      "description": "Featuring works of renowned photographers from around the world",
+      "date": "2024-10-18",
+      "category": "Art",
+      "location": {
+        "lat": 23.7461,
+        "lng": 90.3742
+      },
+      "address": "Bangladesh Shilpakala Academy, Dhaka",
+      "ticketPrice": 250
+    },
+    {
+      "id": 24,
+      "title": "Bangladesh Organic Food Fair",
+      "description": "Promoting organic and sustainable food production",
+      "date": "2024-10-23",
+      "category": "Food",
+      "location": {
+        "lat": 23.8138,
+        "lng": 90.4274
+      },
+      "address": "Bangladesh China Friendship Exhibition Center, Dhaka",
+      "ticketPrice": 150
+    },
+    {
+      "id": 25,
+      "title": "Dhaka Classical Music Festival",
+      "description": "Celebrating classical music traditions of Bangladesh",
+      "date": "2024-10-28",
+      "category": "Music",
+      "location": {
+        "lat": 23.7525,
+        "lng": 90.384
+      },
+      "address": "Army Stadium, Dhaka",
+      "ticketPrice": 1000
+    },
+    {
+      "id": 26,
+      "title": "Bangladesh Robotics Olympiad",
+      "description": "Competition for young robotics enthusiasts",
+      "date": "2024-11-03",
+      "category": "Technology",
+      "location": {
+        "lat": 23.7298,
+        "lng": 90.4008
+      },
+      "address": "Dhaka University Campus, Dhaka",
+      "ticketPrice": 200
+    },
+    {
+      "id": 27,
+      "title": "Dhaka Flower Show",
+      "description": "Annual exhibition of flowers and ornamental plants",
+      "date": "2024-11-08",
+      "category": "Nature",
+      "location": {
+        "lat": 23.7321,
+        "lng": 90.3971
+      },
+      "address": "Suhrawardy Udyan, Dhaka",
+      "ticketPrice": 100
+    },
+    {
+      "id": 28,
+      "title": "Bangladesh Entrepreneurship Summit",
+      "description": "Gathering of successful entrepreneurs and aspiring business leaders",
+      "date": "2024-11-13",
+      "category": "Business",
+      "location": {
+        "lat": 23.8127,
+        "lng": 90.4136
+      },
+      "address": "Radisson Blu Dhaka Water Garden",
+      "ticketPrice": 2500
+    },
+    {
+      "id": 29,
+      "title": "Dhaka Winter Crafts Fair",
+      "description": "Showcasing traditional and modern crafts",
+      "date": "2024-11-18",
+      "category": "Culture",
+      "location": {
+        "lat": 23.7539,
+        "lng": 90.384
+      },
+      "address": "Bangladesh Shilpakala Academy, Dhaka",
+      "ticketPrice": 50
+    },
+    {
+      "id": 30,
+      "title": "Bangladesh Science and Engineering Fair",
+      "description": "Competition for young scientists and engineers",
+      "date": "2024-11-23",
+      "category": "Science",
+      "location": {
+        "lat": 23.7805,
+        "lng": 90.4091
+      },
+      "address": "EMK Center, Dhanmondi, Dhaka",
+      "ticketPrice": 100
+    },
+    {
+      "id": 31,
+      "title": "Dhaka International Film Festival",
+      "description": "Showcasing films from around the world",
+      "date": "2024-10-09",
+      "category": "Entertainment",
+      "location": {
+        "lat": 23.7937,
+        "lng": 90.4066
+      },
+      "address": "Bangladesh National Museum, Dhaka",
+      "ticketPrice": 400
+    },
+    {
+      "id": 32,
+      "title": "Bangladesh Artificial Intelligence Conference",
+      "description": "Exploring the latest in AI technologies",
+      "date": "2024-10-14",
+      "category": "Technology",
+      "location": {
+        "lat": 23.8103,
+        "lng": 90.4125
+      },
+      "address": "Bangabandhu International Conference Center, Dhaka",
+      "ticketPrice": 2000
+    },
+    {
+      "id": 33,
+      "title": "Dhaka Poetry Festival",
+      "description": "Celebration of poetry from Bangladesh and beyond",
+      "date": "2024-10-19",
+      "category": "Literature",
+      "location": {
+        "lat": 23.7514,
+        "lng": 90.3934
+      },
+      "address": "Bangla Academy, Dhaka",
+      "ticketPrice": 200
+    },
+    {
+      "id": 34,
+      "title": "Bangladesh Health and Wellness Expo",
+      "description": "Promoting healthy living and wellness practices",
+      "date": "2024-10-24",
+      "category": "Health",
+      "location": {
+        "lat": 23.8762,
+        "lng": 90.3782
+      },
+      "address": "Bashundhara Convention Center, Dhaka",
+      "ticketPrice": 150
+    },
+    {
+      "id": 35,
+      "title": "Dhaka International Folk Festival",
+      "description": "Celebrating folk music traditions from around the world",
+      "date": "2024-10-29",
+      "category": "Music",
+      "location": {
+        "lat": 23.8136,
+        "lng": 90.4137
+      },
+      "address": "Jamuna Future Park, Dhaka",
+      "ticketPrice": 800
+    },
+    {
+      "id": 36,
+      "title": "Bangladesh E-Commerce Fair",
+      "description": "Showcasing the latest in online retail technologies",
+      "date": "2024-11-04",
+      "category": "Business",
+      "location": {
+        "lat": 23.8138,
+        "lng": 90.4274
+      },
+      "address": "Bangladesh China Friendship Exhibition Center, Dhaka",
+      "ticketPrice": 100
+    },
+    {
+      "id": 37,
+      "title": "Dhaka Biennial Art Exhibition",
+      "description": "Major contemporary art exhibition",
+      "date": "2024-11-09",
+      "category": "Art",
+      "location": {
+        "lat": 23.7461,
+        "lng": 90.3742
+      },
+      "address": "Bangladesh Shilpakala Academy, Dhaka",
+      "ticketPrice": 300
+    },
+    {
+      "id": 38,
+      "title": "Bangladesh Cybersecurity Conference",
+      "description": "Addressing the latest in digital security",
+      "date": "2024-11-14",
+      "category": "Technology",
+      "location": {
+        "lat": 23.7805,
+        "lng": 90.4091
+      },
+      "address": "EMK Center, Dhanmondi, Dhaka",
+      "ticketPrice": 1500
+    },
+    {
+      "id": 39,
+      "title": "Dhaka Sustainable Fashion Week",
+      "description": "Promoting eco-friendly and ethical fashion",
+      "date": "2024-11-19",
+      "category": "Fashion",
+      "location": {
+        "lat": 23.8103,
+        "lng": 90.4125
+      },
+      "address": "Pan Pacific Sonargaon Dhaka",
+      "ticketPrice": 1800
+    },
+    {
+      "id": 40,
+      "title": "Bangladesh Renewable Energy Conference",
+      "description": "Discussing the future of clean energy in Bangladesh",
+      "date": "2024-11-24",
+      "category": "Technology",
+      "location": {
+        "lat": 23.8127,
+        "lng": 90.4136
+      },
+      "address": "Radisson Blu Dhaka Water Garden",
+      "ticketPrice": 1000
+    },
+    {
+      "id": 41,
+      "title": "Dhaka Comic Con",
+      "description": "Celebration of comics, anime, and pop culture",
+      "date": "2024-10-06",
+      "category": "Entertainment",
+      "location": {
+        "lat": 23.8136,
+        "lng": 90.4137
+      },
+      "address": "Jamuna Future Park, Dhaka",
+      "ticketPrice": 500
+    },
+    {
+      "id": 42,
+      "title": "Bangladesh Agricultural Fair",
+      "description": "Showcasing advancements in agriculture",
+      "date": "2024-10-11",
+      "category": "Agriculture",
+      "location": {
+        "lat": 23.7321,
+        "lng": 90.3971
+      },
+      "address": "Suhrawardy Udyan, Dhaka",
+      "ticketPrice": 50
+    },
+    {
+      "id": 43,
+      "title": "Dhaka International Dance Festival",
+      "description": "Featuring dance performances from around the world",
+      "date": "2024-10-16",
+      "category": "Culture",
+      "location": {
+        "lat": 23.7539,
+        "lng": 90.384
+      },
+      "address": "Bangladesh Shilpakala Academy, Dhaka",
+      "ticketPrice": 600
+    },
+    {
+      "id": 44,
+      "title": "Bangladesh Mobile App Expo",
+      "description": "Showcasing innovative mobile applications",
+      "date": "2024-10-21",
+      "category": "Technology",
+      "location": {
+        "lat": 23.8762,
+        "lng": 90.3782
+      },
+      "address": "Bashundhara Convention Center, Dhaka",
+      "ticketPrice": 200
+    },
+    {
+      "id": 45,
+      "title": "Dhaka Culinary Arts Festival",
+      "description": "Celebrating the art of cooking and gastronomy",
+      "date": "2024-10-26",
+      "category": "Food",
+      "location": {
+        "lat": 23.813,
+        "lng": 90.4148
+      },
+      "address": "Gulshan-2 Circle, Dhaka",
+      "ticketPrice": 800
+    },
+    {
+      "id": 46,
+      "title": "Bangladesh Education Technology Fair",
+      "description": "Showcasing the latest in educational technology",
+      "date": "2024-10-31",
+      "category": "Education",
+      "location": {
+        "lat": 23.7298,
+        "lng": 90.4008
+      },
+      "address": "Dhaka University Campus, Dhaka",
+      "ticketPrice": 100
+    },
+    {
+      "id": 47,
+      "title": "Dhaka Fitness Expo",
+      "description": "Promoting fitness and healthy lifestyle",
+      "date": "2024-11-05",
+      "category": "Health",
+      "location": {
+        "lat": 23.7525,
+        "lng": 90.384
+      },
+      "address": "Army Stadium, Dhaka",
+      "ticketPrice": 200
+    },
+    {
+      "id": 48,
+      "title": "Bangladesh Blockchain Summit",
+      "description": "Exploring blockchain technology and its applications",
+      "date": "2024-11-10",
+      "category": "Technology",
+      "location": {
+        "lat": 23.8103,
+        "lng": 90.4125
+      },
+      "address": "Bangabandhu International Conference Center, Dhaka",
+      "ticketPrice": 1500
+    },
+    {
+      "id": 49,
+      "title": "Dhaka Winter Music Festival",
+      "description": "Outdoor music festival featuring local and international artists",
+      "date": "2024-11-15",
+      "category": "Music",
+      "location": {
+        "lat": 23.7461,
+        "lng": 90.3742
+      },
+      "address": "Bangladesh Army Stadium, Dhaka",
+      "ticketPrice": 1200
+    },
+    {
+      "id": 50,
+      "title": "Bangladesh Green Building Expo",
+      "description": "Showcasing sustainable architecture and construction",
+      "date": "2024-11-20",
+      "category": "Architecture",
+      "location": {
+        "lat": 23.8138,
+        "lng": 90.4274
+      },
+      "address": "Bangladesh China Friendship Exhibition Center, Dhaka",
+      "ticketPrice": 300
+    },
+    {
+      "id": 51,
+      "title": "Dhaka International Book Fair",
+      "description": "Annual book fair featuring publishers from around the world",
+      "date": "2024-10-07",
+      "category": "Literature",
+      "location": {
+        "lat": 23.7321,
+        "lng": 90.3971
+      },
+      "address": "Bangla Academy, Dhaka",
+      "ticketPrice": 50
+    },
+    {
+      "id": 52,
+      "title": "Bangladesh Drone Racing Championship",
+      "description": "Exciting drone racing competition",
+      "date": "2024-10-12",
+      "category": "Technology",
+      "location": {
+        "lat": 23.813,
+        "lng": 90.4148
+      },
+      "address": "Gulshan Lake Park, Dhaka",
+      "ticketPrice": 300
+    },
+    {
+      "id": 53,
+      "title": "Dhaka Handicraft Expo",
+      "description": "Showcasing traditional and modern handicrafts",
+      "date": "2024-10-17",
+      "category": "Culture",
+      "location": {
+        "lat": 23.7539,
+        "lng": 90.384
+      },
+      "address": "Bangladesh Shilpakala Academy, Dhaka",
+      "ticketPrice": 100
+    },
+    {
+      "id": 54,
+      "title": "Bangladesh Science Fiction Convention",
+      "description": "Gathering for sci-fi enthusiasts and authors",
+      "date": "2024-10-22",
+      "category": "Literature",
+      "location": {
+        "lat": 23.7805,
+        "lng": 90.4091
+      },
+      "address": "EMK Center, Dhanmondi, Dhaka",
+      "ticketPrice": 250
+    },
+    {
+      "id": 55,
+      "title": "Dhaka Vegan Food Festival",
+      "description": "Celebrating plant-based cuisine",
+      "date": "2024-10-27",
+      "category": "Food",
+      "location": {
+        "lat": 23.7938,
+        "lng": 90.4023
+      },
+      "address": "Dhanmondi Lake, Dhaka",
+      "ticketPrice": 400
+    },
+    {
+      "id": 56,
+      "title": "Bangladesh Digital Marketing Conference",
+      "description": "Exploring the latest trends in digital marketing",
+      "date": "2024-11-01",
+      "category": "Business",
+      "location": {
+        "lat": 23.8127,
+        "lng": 90.4136
+      },
+      "address": "Radisson Blu Dhaka Water Garden",
+      "ticketPrice": 1800
+    },
+    {
+      "id": 57,
+      "title": "Dhaka International Jazz Festival",
+      "description": "Featuring jazz musicians from around the world",
+      "date": "2024-11-06",
+      "category": "Music",
+      "location": {
+        "lat": 23.8136,
+        "lng": 90.4137
+      },
+      "address": "Jamuna Future Park, Dhaka",
+      "ticketPrice": 1500
+    },
+    {
+      "id": 58,
+      "title": "Bangladesh Renewable Energy Expo",
+      "description": "Showcasing the latest in renewable energy technologies",
+      "date": "2024-11-11",
+      "category": "Technology",
+      "location": {
+        "lat": 23.8762,
+        "lng": 90.3782
+      },
+      "address": "Bashundhara Convention Center, Dhaka",
+      "ticketPrice": 200
+    },
+    {
+      "id": 59,
+      "title": "Dhaka Street Art Festival",
+      "description": "Transforming city walls into vibrant artworks",
+      "date": "2024-11-16",
+      "category": "Art",
+      "location": {
+        "lat": 23.7461,
+        "lng": 90.3742
+      },
+      "address": "Various locations in Dhaka",
+      "ticketPrice": 100
+    },
+    {
+      "id": 60,
+      "title": "Bangladesh Artificial Intelligence Summit",
+      "description": "Exploring the future of AI in Bangladesh",
+      "date": "2024-11-21",
+      "category": "Technology",
+      "location": {
+        "lat": 23.8103,
+        "lng": 90.4125
+      },
+      "address": "Bangabandhu International Conference Center, Dhaka",
+      "ticketPrice": 2500
+    },
+    {
+      "id": 61,
+      "title": "Dhaka International Coffee Festival",
+      "description": "Celebrating coffee culture and barista skills",
+      "date": "2024-10-08",
+      "category": "Food",
+      "location": {
+        "lat": 23.7938,
+        "lng": 90.4023
+      },
+      "address": "Dhanmondi Lake, Dhaka",
+      "ticketPrice": 300
+    },
+    {
+      "id": 62,
+      "title": "Bangladesh Robotics Exhibition",
+      "description": "Showcasing the latest in robotics technology",
+      "date": "2024-10-13",
+      "category": "Technology",
+      "location": {
+        "lat": 23.8762,
+        "lng": 90.3782
+      },
+      "address": "Bashundhara Convention Center, Dhaka",
+      "ticketPrice": 500
+    },
+    {
+      "id": 63,
+      "title": "Dhaka Biennale",
+      "description": "International contemporary art exhibition",
+      "date": "2024-10-18",
+      "category": "Art",
+      "location": {
+        "lat": 23.7461,
+        "lng": 90.3742
+      },
+      "address": "Bangladesh Shilpakala Academy, Dhaka",
+      "ticketPrice": 400
+    },
+    {
+      "id": 64,
+      "title": "Bangladesh Organic Food Fair",
+      "description": "Promoting organic and sustainable food production",
+      "date": "2024-10-23",
+      "category": "Food",
+      "location": {
+        "lat": 23.8138,
+        "lng": 90.4274
+      },
+      "address": "Bangladesh China Friendship Exhibition Center, Dhaka",
+      "ticketPrice": 150
+    },
+    {
+      "id": 65,
+      "title": "Dhaka International Theater Festival",
+      "description": "Featuring theatrical performances from around the world",
+      "date": "2024-10-28",
+      "category": "Entertainment",
+      "location": {
+        "lat": 23.7539,
+        "lng": 90.384
+      },
+      "address": "National Theater Hall, Bangladesh Shilpakala Academy, Dhaka",
+      "ticketPrice": 600
+    },
+    {
+      "id": 66,
+      "title": "Bangladesh Cybersecurity Summit",
+      "description": "Addressing the latest challenges in digital security",
+      "date": "2024-11-02",
+      "category": "Technology",
+      "location": {
+        "lat": 23.7805,
+        "lng": 90.4091
+      },
+      "address": "EMK Center, Dhanmondi, Dhaka",
+      "ticketPrice": 2000
+    },
+    {
+      "id": 67,
+      "title": "Dhaka Kite Festival",
+      "description": "Colorful kite flying event in the city sky",
+      "date": "2024-11-07",
+      "category": "Culture",
+      "location": {
+        "lat": 23.7276,
+        "lng": 90.3968
+      },
+      "address": "Hatirjheel, Dhaka",
+      "ticketPrice": 100
+    },
+    {
+      "id": 68,
+      "title": "Bangladesh Startup Weekend",
+      "description": "54-hour event to launch startup ideas",
+      "date": "2024-11-12",
+      "category": "Business",
+      "location": {
+        "lat": 23.8127,
+        "lng": 90.4136
+      },
+      "address": "Radisson Blu Dhaka Water Garden",
+      "ticketPrice": 1500
+    },
+    {
+      "id": 69,
+      "title": "Dhaka Winter Crafts Fair",
+      "description": "Showcasing traditional and modern crafts",
+      "date": "2024-11-17",
+      "category": "Culture",
+      "location": {
+        "lat": 23.7321,
+        "lng": 90.3971
+      },
+      "address": "Suhrawardy Udyan, Dhaka",
+      "ticketPrice": 50
+    },
+    {
+      "id": 70,
+      "title": "Bangladesh Science and Engineering Fair",
+      "description": "Competition for young scientists and engineers",
+      "date": "2024-11-22",
+      "category": "Science",
+      "location": {
+        "lat": 23.7298,
+        "lng": 90.4008
+      },
+      "address": "Dhaka University Campus, Dhaka",
+      "ticketPrice": 200
+    },
+    {
+      "id": 71,
+      "title": "Dhaka International Photography Exhibition",
+      "description": "Showcasing works of renowned photographers",
+      "date": "2024-10-09",
+      "category": "Art",
+      "location": {
+        "lat": 23.7461,
+        "lng": 90.3742
+      },
+      "address": "Bangladesh Shilpakala Academy, Dhaka",
+      "ticketPrice": 300
+    },
+    {
+      "id": 72,
+      "title": "Bangladesh Fintech Summit",
+      "description": "Exploring innovations in financial technology",
+      "date": "2024-10-14",
+      "category": "Technology",
+      "location": {
+        "lat": 23.8103,
+        "lng": 90.4125
+      },
+      "address": "Bangabandhu International Conference Center, Dhaka",
+      "ticketPrice": 2000
+    },
+    {
+      "id": 73,
+      "title": "Dhaka Culinary Arts Festival",
+      "description": "Showcasing the best of Bangladeshi cuisine",
+      "date": "2024-10-19",
+      "category": "Food",
+      "location": {
+        "lat": 23.813,
+        "lng": 90.4148
+      },
+      "address": "Gulshan-2 Circle, Dhaka",
+      "ticketPrice": 500
+    },
+    {
+      "id": 74,
+      "title": "Bangladesh Blockchain Conference",
+      "description": "Exploring the potential of blockchain technology",
+      "date": "2024-10-24",
+      "category": "Technology",
+      "location": {
+        "lat": 23.8762,
+        "lng": 90.3782
+      },
+      "address": "Bashundhara Convention Center, Dhaka",
+      "ticketPrice": 1800
+    },
+    {
+      "id": 75,
+      "title": "Dhaka International Film Festival",
+      "description": "Showcasing films from around the world",
+      "date": "2024-10-29",
+      "category": "Entertainment",
+      "location": {
+        "lat": 23.7937,
+        "lng": 90.4066
+      },
+      "address": "Bangladesh National Museum, Dhaka",
+      "ticketPrice": 400
+    },
+    {
+      "id": 76,
+      "title": "Bangladesh Renewable Energy Expo",
+      "description": "Promoting sustainable energy solutions",
+      "date": "2024-11-03",
+      "category": "Technology",
+      "location": {
+        "lat": 23.8138,
+        "lng": 90.4274
+      },
+      "address": "Bangladesh China Friendship Exhibition Center, Dhaka",
+      "ticketPrice": 250
+    },
+    {
+      "id": 77,
+      "title": "Dhaka Literary Festival",
+      "description": "Celebrating literature from Bangladesh and beyond",
+      "date": "2024-11-08",
+      "category": "Literature",
+      "location": {
+        "lat": 23.7514,
+        "lng": 90.3934
+      },
+      "address": "Bangla Academy, Dhaka",
+      "ticketPrice": 300
+    },
+    {
+      "id": 78,
+      "title": "Bangladesh E-Commerce Fair",
+      "description": "Showcasing the latest in online retail",
+      "date": "2024-11-13",
+      "category": "Business",
+      "location": {
+        "lat": 23.8136,
+        "lng": 90.4137
+      },
+      "address": "Jamuna Future Park, Dhaka",
+      "ticketPrice": 100
+    },
+    {
+      "id": 79,
+      "title": "Dhaka International Jazz Festival",
+      "description": "Featuring jazz musicians from around the world",
+      "date": "2024-11-18",
+      "category": "Music",
+      "location": {
+        "lat": 23.7525,
+        "lng": 90.384
+      },
+      "address": "Army Stadium, Dhaka",
+      "ticketPrice": 1200
+    },
+    {
+      "id": 80,
+      "title": "Bangladesh Artificial Intelligence Summit",
+      "description": "Exploring the future of AI in Bangladesh",
+      "date": "2024-11-23",
+      "category": "Technology",
+      "location": {
+        "lat": 23.7805,
+        "lng": 90.4091
+      },
+      "address": "EMK Center, Dhanmondi, Dhaka",
+      "ticketPrice": 2200
+    },
+    {
+      "id": 81,
+      "title": "Dhaka Biryani Festival",
+      "description": "Celebrating the iconic dish of Dhaka",
+      "date": "2024-10-11",
+      "category": "Food",
+      "location": {
+        "lat": 23.7511,
+        "lng": 90.3934
+      },
+      "address": "Ramna Park, Dhaka",
+      "ticketPrice": 200
+    },
+    {
+      "id": 82,
+      "title": "Bangladesh Digital Innovation Fair",
+      "description": "Showcasing digital innovations and startups",
+      "date": "2024-10-16",
+      "category": "Technology",
+      "location": {
+        "lat": 23.8762,
+        "lng": 90.3782
+      },
+      "address": "Bashundhara Convention Center, Dhaka",
+      "ticketPrice": 300
+    },
+    {
+      "id": 83,
+      "title": "Dhaka International Art Biennale",
+      "description": "Showcasing contemporary art from around the world",
+      "date": "2024-10-21",
+      "category": "Art",
+      "location": {
+        "lat": 23.7461,
+        "lng": 90.3742
+      },
+      "address": "Bangladesh Shilpakala Academy, Dhaka",
+      "ticketPrice": 500
+    },
+    {
+      "id": 84,
+      "title": "Bangladesh Agro Tech Fair",
+      "description": "Showcasing agricultural technologies and innovations",
+      "date": "2024-10-26",
+      "category": "Technology",
+      "location": {
+        "lat": 23.8138,
+        "lng": 90.4274
+      },
+      "address": "Bangladesh China Friendship Exhibition Center, Dhaka",
+      "ticketPrice": 150
+    },
+    {
+      "id": 85,
+      "title": "Dhaka Comedy Festival",
+      "description": "Featuring stand-up comedians from Bangladesh and abroad",
+      "date": "2024-10-31",
+      "category": "Entertainment",
+      "location": {
+        "lat": 23.7539,
+        "lng": 90.384
+      },
+      "address": "National Theater Hall, Bangladesh Shilpakala Academy, Dhaka",
+      "ticketPrice": 800
+    },
+    {
+      "id": 86,
+      "title": "Bangladesh Mobile Game Development Competition",
+      "description": "Showcasing talent in mobile game development",
+      "date": "2024-11-05",
+      "category": "Technology",
+      "location": {
+        "lat": 23.7805,
+        "lng": 90.4091
+      },
+      "address": "EMK Center, Dhanmondi, Dhaka",
+      "ticketPrice": 100
+    },
+    {
+      "id": 87,
+      "title": "Dhaka Tea Festival",
+      "description": "Celebrating tea culture in Bangladesh",
+      "date": "2024-11-10",
+      "category": "Food",
+      "location": {
+        "lat": 23.7938,
+        "lng": 90.4023
+      },
+      "address": "Dhanmondi Lake, Dhaka",
+      "ticketPrice": 150
+    },
+    {
+      "id": 88,
+      "title": "Bangladesh Cybersecurity Conference",
+      "description": "Addressing the latest challenges in digital security",
+      "date": "2024-11-15",
+      "category": "Technology",
+      "location": {
+        "lat": 23.8103,
+        "lng": 90.4125
+      },
+      "address": "Bangabandhu International Conference Center, Dhaka",
+      "ticketPrice": 1800
+    },
+    {
+      "id": 89,
+      "title": "Dhaka Winter Music Festival",
+      "description": "Outdoor music festival featuring local and international artists",
+      "date": "2024-11-20",
+      "category": "Music",
+      "location": {
+        "lat": 23.7461,
+        "lng": 90.3742
+      },
+      "address": "Bangladesh Army Stadium, Dhaka",
+      "ticketPrice": 1500
+    },
+    {
+      "id": 90,
+      "title": "Bangladesh Green Building Expo",
+      "description": "Showcasing sustainable architecture and construction",
+      "date": "2024-11-25",
+      "category": "Architecture",
+      "location": {
+        "lat": 23.8138,
+        "lng": 90.4274
+      },
+      "address": "Bangladesh China Friendship Exhibition Center, Dhaka",
+      "ticketPrice": 200
+    },
+    {
+      "id": 91,
+      "title": "Dhaka Street Food Festival",
+      "description": "Celebrating the diverse street food culture of Dhaka",
+      "date": "2024-10-13",
+      "category": "Food",
+      "location": {
+        "lat": 23.7511,
+        "lng": 90.3934
+      },
+      "address": "Ramna Park, Dhaka",
+      "ticketPrice": 100
+    },
+    {
+      "id": 92,
+      "title": "Bangladesh IoT Summit",
+      "description": "Exploring the Internet of Things and its applications",
+      "date": "2024-10-18",
+      "category": "Technology",
+      "location": {
+        "lat": 23.8762,
+        "lng": 90.3782
+      },
+      "address": "Bashundhara Convention Center, Dhaka",
+      "ticketPrice": 1600
+    },
+    {
+      "id": 93,
+      "title": "Dhaka International Photography Exhibition",
+      "description": "Showcasing works of renowned photographers from around the world",
+      "date": "2024-10-23",
+      "category": "Art",
+      "location": {
+        "lat": 23.7461,
+        "lng": 90.3742
+      },
+      "address": "Bangladesh Shilpakala Academy, Dhaka",
+      "ticketPrice": 250
+    },
+    {
+      "id": 94,
+      "title": "Bangladesh Drone Technology Expo",
+      "description": "Showcasing the latest in drone technology and applications",
+      "date": "2024-10-28",
+      "category": "Technology",
+      "location": {
+        "lat": 23.8138,
+        "lng": 90.4274
+      },
+      "address": "Bangladesh China Friendship Exhibition Center, Dhaka",
+      "ticketPrice": 300
+    },
+    {
+      "id": 95,
+      "title": "Dhaka International Theater Festival",
+      "description": "Featuring theatrical performances from around the world",
+      "date": "2024-11-02",
+      "category": "Entertainment",
+      "location": {
+        "lat": 23.7539,
+        "lng": 90.384
+      },
+      "address": "National Theater Hall, Bangladesh Shilpakala Academy, Dhaka",
+      "ticketPrice": 600
+    },
+    {
+      "id": 96,
+      "title": "Bangladesh Fintech Innovation Challenge",
+      "description": "Competition for innovative financial technology solutions",
+      "date": "2024-11-07",
+      "category": "Technology",
+      "location": {
+        "lat": 23.7805,
+        "lng": 90.4091
+      },
+      "address": "EMK Center, Dhanmondi, Dhaka",
+      "ticketPrice": 100
+    },
+    {
+      "id": 97,
+      "title": "Dhaka Coffee Festival",
+      "description": "Celebrating coffee culture and barista skills",
+      "date": "2024-11-12",
+      "category": "Food",
+      "location": {
+        "lat": 23.7938,
+        "lng": 90.4023
+      },
+      "address": "Dhanmondi Lake, Dhaka",
+      "ticketPrice": 200
+    },
+    {
+      "id": 98,
+      "title": "Bangladesh Augmented Reality Expo",
+      "description": "Showcasing the latest in AR technology and applications",
+      "date": "2024-11-17",
+      "category": "Technology",
+      "location": {
+        "lat": 23.8103,
+        "lng": 90.4125
+      },
+      "address": "Bangabandhu International Conference Center, Dhaka",
+      "ticketPrice": 400
+    },
+    {
+      "id": 99,
+      "title": "Dhaka Winter Jazz Festival",
+      "description": "Featuring jazz musicians from Bangladesh and abroad",
+      "date": "2024-11-22",
+      "category": "Music",
+      "location": {
+        "lat": 23.7461,
+        "lng": 90.3742
+      },
+      "address": "Bangladesh Army Stadium, Dhaka",
+      "ticketPrice": 1000
+    },
+    {
+      "id": 100,
+      "title": "Bangladesh Smart City Expo",
+      "description": "Exploring technologies for building smart cities",
+      "date": "2024-11-27",
+      "category": "Technology",
+      "location": {
+        "lat": 23.8138,
+        "lng": 90.4274
+      },
+      "address": "Bangladesh China Friendship Exhibition Center, Dhaka",
+      "ticketPrice": 350
+    }
+  ]
+}
