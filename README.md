@@ -4,6 +4,9 @@
 
 The **Local Event Finder App** helps users discover local events happening in their area. Users can search for events based on location, date, and category (e.g., music, sports, art), and view them on an interactive map. They can also bookmark events, get directions, and share event details with friends.
 
+## UI
+
+
 ## Features
 
 ### 1. User Registration (Simulated)
