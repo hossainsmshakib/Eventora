@@ -27,29 +27,20 @@ The **Local Event Finder App** helps users discover local events happening in th
 - Show event details (e.g., name, date, description) when clicking on map pins.
 - Display event locations along with real-time data, such as weather and distance.
 
-### 4. Event Details and Bookmarking
+### 4. Event Details
 
 - View detailed event info, including:
   - Date and time
   - Venue
   - Description
   - Ticket prices.
-- Users can bookmark events they are interested in attending.
-- Bookmarked events are stored locally and can be accessed in a dedicated section.
 
 ### 5. Get Directions
 
 - Users can get directions to an event using a built-in map feature.
 - Provide walking and driving directions, including estimated time of arrival.
 
-### 6. Event Sharing
-
-- Allow users to share event details with friends via:
-  - Social media
-  - Email
-  - Shareable links.
-
-### 7. Categorization and Filters
+### 6. Categorization and Filters
 
 - Events are categorized into various types, such as:
   - Music
@@ -60,16 +51,10 @@ The **Local Event Finder App** helps users discover local events happening in th
   - Category
   - Distance from the user's current or entered location.
 
-### 8. Responsive Design
+### 7. Responsive Design
 
 - Fully responsive UI ensures the app works seamlessly on:
   - Mobile
   - Tablet
   - Desktop devices.
-
-### 9. Optional: Notification Feature
-
-- (Optional) Users can enable notifications to:
-  - Get reminders of upcoming events.
-  - Receive alerts about new events in their area.
 
